@@ -7,6 +7,7 @@ import android.widget.EditText
 import android.widget.TextView
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
+import com.takseha.exchangerateapp.viewmodel.MainViewModel
 
 class MainActivity : AppCompatActivity() {
 

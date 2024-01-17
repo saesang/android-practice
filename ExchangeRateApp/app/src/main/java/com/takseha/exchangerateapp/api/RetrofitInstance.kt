@@ -1,4 +1,4 @@
-package com.takseha.exchangerateapp
+package com.takseha.exchangerateapp.api
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
